@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C967F84C1F36A17400B3990C = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = N6N829YH2T;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N6N829YH2T;
 				INFOPLIST_FILE = ButtonFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bgoggin.ButtonFun;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = N6N829YH2T;
 				INFOPLIST_FILE = ButtonFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bgoggin.ButtonFun;
